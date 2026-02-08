@@ -26,6 +26,11 @@ The signing logic is in `src/lib/signature.ts`.  A pledge message is serialized 
 
 Passport data is stored in an in-memory map (`src/lib/store.ts`).  The API routes under `src/app/api/` handle team listing, passport creation, and passport retrieval.
 
+Demo
+----
+
+[Watch the demo video](https://www.loom.com/share/f90db1c7676e48a384286d37fee86b35)
+
 Setup
 -----
 
